@@ -1,9 +1,14 @@
-.skel
-=====
+fleuratae
+=========
 
-This is a skeleton project.  It needs better documentation.
+This is some slightly hacky code to generate g-code for 2.5D objects.
+
+gas_sensors_round.ipynb is probably the best place to start, it's a PCB to
+mount a set of MQ gas sensors on protoboards.
+
+I'm only publishing this to show a friend what I built, and I wouldn't advise
+actually using it.
 
 Contents:
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+code/ -- The actual code.
